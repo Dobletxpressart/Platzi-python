@@ -12,7 +12,8 @@ def run():
     poblacion_paises = {
         'Argentina': 44938712,
         'Brasil': 210147125,
-        'Colombia': 50372424
+        'Colombia': 2022
+        
     }
 
     # print(poblacion_paises['Bolivia'])
